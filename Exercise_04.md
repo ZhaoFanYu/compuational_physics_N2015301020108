@@ -83,7 +83,7 @@ def area(v_0, theta_0):
         y_iplus = y_i + v_y_i * delta_t
         v_x_iplus = v_x_i - drag_i * v_i * v_x_i * delta_t
         v_y_iplus = v_y_i - drag_i * v_i * v_y_i * delta_t - 9.8 * delta_t
-        if y_iplus < 0
+        if y_iplus < 0:
             x_final = x_i - y_i * ((x_i - x_iplus) / (y_i - y_iplus))
             y_final = 0
             list_x.append(x_final)
@@ -96,7 +96,7 @@ def area(v_0, theta_0):
             v_y_i = v_y_iplus
             list_x.append(x_i)
             list_y.append(y_i)
-     return x_final
+    return x_final
 area_max = area(700,math.pi * 30 / 180)
 for i in range(21):
     n = i + 30
