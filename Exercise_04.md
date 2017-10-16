@@ -54,7 +54,9 @@ area(700,math.pi * 30 / 180)
 area(700,math.pi * 50 / 180)
 ```
 图像如下
+
 ![](https://github.com/2739515436/compuational_physics_N2015301020108/blob/master/20171016083439.png)
+
 可以判断出距离最远时角度在30到50度之间
 再用下述程序求出最远距离
 ```python
