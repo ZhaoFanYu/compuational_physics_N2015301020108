@@ -24,7 +24,7 @@ def area(v_0, theta_0):
     list_x.append(x_i)
     list_y.append(y_i)         
     while(1):
-    drag_i = drag_0 * ((1 - y_i * (6.5 * 10 **(-3)) / 300) ** (2.5))   #a=6.5*10^(-3)K/m, T=300K, α=2.5
+        drag_i = drag_0 * ((1 - y_i * (6.5 * 10 **(-3)) / 300) ** (2.5))   #a=6.5*10^(-3)K/m, T=300K, α=2.5
         v_i = math.sqrt(v_x_i ** 2 + v_y_i ** 2)
         x_iplus = x_i + v_x_i * delta_t
         y_iplus = y_i + v_y_i * delta_t
