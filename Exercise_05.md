@@ -1,4 +1,4 @@
-(# Exercise_05
+# Exercise_05
 ## 张健 2015301020108
 ### 题目:2.19题
 ### Model the effect of backspin on the range of a batted ball.Assume an angular velocity of 2000 rpm.
@@ -7,6 +7,6 @@
 代码如下
 (https://github.com/2739515436/compuational_physics_N2015301020108/blob/master/2.19.py)
 得到图像如下
-
+![](https://github.com/2739515436/compuational_physics_N2015301020108/blob/master/Z_VE%7D6XMDPD%7BQM%5BP%5BL6LAZY.png)
 ### 结论
 当初始角度为36.8度时射程最远
