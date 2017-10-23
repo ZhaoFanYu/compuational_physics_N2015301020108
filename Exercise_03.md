@@ -4,13 +4,13 @@
 ![](https://github.com/2739515436/compuational_physics_N2015301020108/blob/master/%40C3%5BHMX88KTA~2SI%5B%5D%7BVPO2.png)
 ### 正文
 代码如下
-[daima](https://github.com/2739515436/compuational_physics_N2015301020108/blob/master/1.1.py)
+(https://github.com/2739515436/compuational_physics_N2015301020108/blob/master/1.1.py)
 
 
 得到如下图象
 
 
-![](https://github.com/2739515436/compuational_physics_N2015301020108/blob/master/2J73LIW0SJ%7DI8I(YSOVC%5B7A.png)
+![](https://github.com/2739515436/compuational_physics_N2015301020108/blob/master/1.1photo.png)
 
 
 
