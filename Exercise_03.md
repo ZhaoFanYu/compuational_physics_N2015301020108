@@ -1,7 +1,7 @@
 # Exercise_03
 ## 张健 2015301020108
 ### 题目:1.1
-![]()
+![](https://github.com/2739515436/compuational_physics_N2015301020108/blob/master/%40C3%5BHMX88KTA~2SI%5B%5D%7BVPO2.png)
 ### 正文
 代码如下
 (https://github.com/2739515436/compuational_physics_N2015301020108/blob/master/1.1.py)
